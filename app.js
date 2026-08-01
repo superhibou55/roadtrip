@@ -123,7 +123,10 @@ day.points.forEach(p=>{
 
 
 let marker=L.marker(
-[p.lat,p.lon]
+[p.lat,p.lon],
+{
+icon:createIcon(p.type)
+}
 )
 .addTo(map)
 .bindPopup(
@@ -165,5 +168,62 @@ line.getBounds()
 
 }
 
+
+}
+
+function createIcon(type){
+
+let emoji="📍";
+
+
+switch(type){
+
+case "Départ":
+emoji="🏠";
+break;
+
+case "Hôtel":
+emoji="🛏";
+break;
+
+case "Camping":
+emoji="⛺";
+break;
+
+case "Ferry":
+emoji="🚢";
+break;
+
+case "Restaurant":
+emoji="🍴";
+break;
+
+case "Randonnée":
+emoji="🥾";
+break;
+
+case "Point de vue":
+emoji="📷";
+break;
+
+case "Visite":
+emoji="🏰";
+break;
+
+case "Parking":
+emoji="🅿";
+break;
+
+}
+
+
+return L.divIcon({
+
+html:
+"<div style='font-size:28px'>"+emoji+"</div>",
+
+className:""
+
+});
 
 }
