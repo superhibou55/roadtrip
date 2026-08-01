@@ -192,6 +192,30 @@
           "documentUrl": ""
         }
       ]
+    },
+    {
+      "day": 9,
+      "name": "Larne →  Mull",
+      "points": [
+        {
+          "order": 1,
+          "type": "Ferry",
+          "name": "Larne to Mull",
+          "lat": 54.84559564,
+          "lon": -5.807924219,
+          "info": "Hotel",
+          "documentUrl": ""
+        },
+        {
+          "order": 2,
+          "type": "",
+          "name": "Larne to Mull",
+          "lat": 56.36608628,
+          "lon": -6.01740372,
+          "info": "Camping",
+          "documentUrl": ""
+        }
+      ]
     }
   ]
 }
