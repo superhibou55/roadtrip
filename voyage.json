@@ -175,7 +175,7 @@
         },
         {
           "order": 2,
-          "type": "",
+          "type": "Visite",
           "name": "Giant Causeway",
           "lat": 55.23332486,
           "lon": -6.516071352,
@@ -213,6 +213,45 @@
           "lat": 56.36608628,
           "lon": -6.01740372,
           "info": "Camping",
+          "documentUrl": ""
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "name": "Mull",
+      "points": [
+        {
+          "order": 1,
+          "type": "Visite",
+          "name": "Mull",
+          "lat": 56.36608628,
+          "lon": -6.01740372,
+          "info": "",
+          "documentUrl": ""
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "name": "Mull →  Skye",
+      "points": [
+        {
+          "order": 1,
+          "type": "Départ",
+          "name": "Mull",
+          "lat": 56.36608628,
+          "lon": -6.01740372,
+          "info": "",
+          "documentUrl": ""
+        },
+        {
+          "order": 2,
+          "type": "Arrivée",
+          "name": "Skye",
+          "lat": 57.21254719,
+          "lon": -5.513028132,
+          "info": "",
           "documentUrl": ""
         }
       ]
