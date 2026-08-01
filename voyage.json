@@ -255,6 +255,45 @@
           "documentUrl": ""
         }
       ]
+    },
+    {
+      "day": 12,
+      "name": "Skye",
+      "points": [
+        {
+          "order": 1,
+          "type": "Visite",
+          "name": "Skye",
+          "lat": 57.21254719,
+          "lon": -5.513028132,
+          "info": "",
+          "documentUrl": ""
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "name": "Skye →  Inverness",
+      "points": [
+        {
+          "order": 1,
+          "type": "Départ",
+          "name": "Voiture",
+          "lat": 57.21254719,
+          "lon": -5.513028132,
+          "info": "",
+          "documentUrl": ""
+        },
+        {
+          "order": 2,
+          "type": "Arrivée",
+          "name": "Voiture",
+          "lat": 57.45516667,
+          "lon": -4.05315,
+          "info": "Hôtel",
+          "documentUrl": ""
+        }
+      ]
     }
   ]
 }
