@@ -1,4 +1,4 @@
-let zoom = window.innerWidth < 600 ? 7 : 6;
+let zoom = window.innerWidth < 600 ? 15 : 6;
 
 let map = L.map('map')
 .setView([53,-8],zoom);
