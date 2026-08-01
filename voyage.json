@@ -12,7 +12,7 @@
           "lat": 42.77663,
           "lon": 0.60082,
           "info": "Départ maison",
-          "document": ""
+          "documentUrl": ""
         },
         {
           "order": 2,
@@ -21,7 +21,7 @@
           "lat": 42.05658,
           "lon": -1.09603,
           "info": "Auberge",
-          "document": ""
+          "documentUrl": ""
         }
       ]
     },
@@ -36,7 +36,7 @@
           "lat": 42.05658,
           "lon": -1.09603,
           "info": "Auberge",
-          "document": ""
+          "documentUrl": ""
         },
         {
           "order": 2,
@@ -45,7 +45,7 @@
           "lat": 43.3494,
           "lon": -3.06997,
           "info": "Départ ferry",
-          "document": ""
+          "documentUrl": "https://drive.google.com/file/d/1-sW50plkzsQ11WB6KbCzrdROMFde-65Y/view?usp=drive_link"
         }
       ]
     }
