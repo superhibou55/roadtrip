@@ -174,7 +174,16 @@
           "documentUrl": ""
         },
         {
-          "order": 1,
+          "order": 2,
+          "type": "",
+          "name": "Giant Causeway",
+          "lat": 55.23332486,
+          "lon": -6.516071352,
+          "info": "Hotel",
+          "documentUrl": ""
+        },
+        {
+          "order": 2,
           "type": "",
           "name": "Giant Causeway",
           "lat": 55.23332486,
