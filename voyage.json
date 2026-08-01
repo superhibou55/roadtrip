@@ -105,6 +105,84 @@
           "documentUrl": ""
         }
       ]
+    },
+    {
+      "day": 5,
+      "name": "Glenross",
+      "points": [
+        {
+          "order": 1,
+          "type": "Camping",
+          "name": "Glenross",
+          "lat": 52.05842301,
+          "lon": -9.931727376,
+          "info": "",
+          "documentUrl": ""
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "name": "Glenross → Galway",
+      "points": [
+        {
+          "order": 1,
+          "type": "Camping",
+          "name": "Glenross",
+          "lat": 52.05842301,
+          "lon": -9.931727376,
+          "info": "",
+          "documentUrl": ""
+        },
+        {
+          "order": 2,
+          "type": "Hôtel",
+          "name": "Oughterard ED",
+          "lat": 53.42555,
+          "lon": -9.313333333,
+          "info": "Hotel",
+          "documentUrl": ""
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "name": "Galway",
+      "points": [
+        {
+          "order": 1,
+          "type": "Hôtel",
+          "name": "Oughterard ED",
+          "lat": 53.42555,
+          "lon": -9.313333333,
+          "info": "Hotel",
+          "documentUrl": ""
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "name": "Glenross → Giants Causeway",
+      "points": [
+        {
+          "order": 1,
+          "type": "",
+          "name": "Oughterard ED",
+          "lat": 53.42555,
+          "lon": -9.313333333,
+          "info": "Hotel",
+          "documentUrl": ""
+        },
+        {
+          "order": 1,
+          "type": "",
+          "name": "Giant Causeway",
+          "lat": 55.23332486,
+          "lon": -6.516071352,
+          "info": "Hotel",
+          "documentUrl": ""
+        }
+      ]
     }
   ]
 }
