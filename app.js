@@ -132,7 +132,12 @@ icon:createIcon(p.type)
 .bindPopup(
 "<b>"+p.name+
 "</b><br>"+
-(p.info||"")
+(p.info||"") +
+(p.documentUrl ?
+"<br>📄 <a target='_blank' href='" +
+p.documentUrl +
+"'>Document</a>"
+:"")
 );
 
 
