@@ -179,15 +179,15 @@
           "name": "Giant Causeway",
           "lat": 55.23332486,
           "lon": -6.516071352,
-          "info": "Hotel",
+          "info": "Visite",
           "documentUrl": ""
         },
         {
           "order": 2,
           "type": "",
-          "name": "Giant Causeway",
-          "lat": 55.23332486,
-          "lon": -6.516071352,
+          "name": "Hotel Larne",
+          "lat": 54.84559564,
+          "lon": -5.807924219,
           "info": "Hotel",
           "documentUrl": ""
         }
