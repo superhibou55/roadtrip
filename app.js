@@ -170,7 +170,11 @@ weight:4
 layers.push(line);
 
 map.fitBounds(
-line.getBounds()
+    line.getBounds(),
+    {
+        padding:[30,30],
+        maxZoom: window.innerWidth < 600 ? 10 : 8
+    }
 );
 
 }
