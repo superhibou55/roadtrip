@@ -48,6 +48,39 @@
           "documentUrl": "https://drive.google.com/file/d/1-sW50plkzsQ11WB6KbCzrdROMFde-65Y/view?usp=drive_link"
         }
       ]
+    },
+    {
+      "day": 3,
+      "name": "Bilbao → Rosslane",
+      "points": [
+        {
+          "order": 1,
+          "type": "Ferry",
+          "name": "traversée",
+          "lat": 43.3494,
+          "lon": -3.06997,
+          "info": "Départ ferry",
+          "documentUrl": "https://drive.google.com/file/d/1-sW50plkzsQ11WB6KbCzrdROMFde-65Y/view?usp=drive_link"
+        },
+        {
+          "order": 2,
+          "type": "Ferry",
+          "name": "Arrivée Rosslane",
+          "lat": 52.25244089,
+          "lon": -6.338192705,
+          "info": "Arrivée Ferry",
+          "documentUrl": "https://drive.google.com/file/d/1-sW50plkzsQ11WB6KbCzrdROMFde-65Y/view?usp=drive_link"
+        },
+        {
+          "order": 3,
+          "type": "Hôtel",
+          "name": "Horse and Hound hotel",
+          "lat": 52.36935,
+          "lon": -6.837233333,
+          "info": "Hotel",
+          "documentUrl": "https://drive.google.com/file/d/1a2j7wkDId-rW8VD_uBZkotdMxF6SJOJA/view?usp=drive_link"
+        }
+      ]
     }
   ]
 }
