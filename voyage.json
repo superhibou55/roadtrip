@@ -81,6 +81,30 @@
           "documentUrl": "https://drive.google.com/file/d/1a2j7wkDId-rW8VD_uBZkotdMxF6SJOJA/view?usp=drive_link"
         }
       ]
+    },
+    {
+      "day": 4,
+      "name": " → Glenross",
+      "points": [
+        {
+          "order": 1,
+          "type": "Camping",
+          "name": "Horse and Hound hotel",
+          "lat": 52.36935,
+          "lon": -6.837233333,
+          "info": "Départ",
+          "documentUrl": ""
+        },
+        {
+          "order": 2,
+          "type": "Camping",
+          "name": "Glenross",
+          "lat": 52.05842301,
+          "lon": -9.931727376,
+          "info": "Arrivée camping",
+          "documentUrl": ""
+        }
+      ]
     }
   ]
 }
