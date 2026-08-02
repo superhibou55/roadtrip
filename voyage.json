@@ -18,8 +18,8 @@
           "order": 2,
           "type": "Hôtel",
           "name": "Tudela",
-          "lat": 42.05658,
-          "lon": -1.09603,
+          "lat": 42.05658333,
+          "lon": -1.596033333,
           "info": "Auberge",
           "documentUrl": ""
         }
@@ -33,8 +33,8 @@
           "order": 1,
           "type": "Ville",
           "name": "Tudela",
-          "lat": 42.05658,
-          "lon": -1.09603,
+          "lat": 42.05658333,
+          "lon": -1.596033333,
           "info": "Auberge",
           "documentUrl": ""
         },
@@ -186,8 +186,8 @@
           "order": 3,
           "type": "",
           "name": "Hotel Larne",
-          "lat": 54.84559564,
-          "lon": -5.807924219,
+          "lat": 54.84576667,
+          "lon": -5.807416667,
           "info": "Hotel",
           "documentUrl": ""
         }
@@ -201,8 +201,8 @@
           "order": 1,
           "type": "Ferry",
           "name": "Larne to Mull",
-          "lat": 54.84559564,
-          "lon": -5.807924219,
+          "lat": 54.84576667,
+          "lon": -5.807416667,
           "info": "Hotel",
           "documentUrl": ""
         },
@@ -289,7 +289,7 @@
           "type": "Arrivée",
           "name": "Voiture",
           "lat": 57.45516667,
-          "lon": -4.05315,
+          "lon": -4.219816667,
           "info": "Hôtel",
           "documentUrl": ""
         }
@@ -304,7 +304,7 @@
           "type": "Départ",
           "name": "Voiture",
           "lat": 57.45516667,
-          "lon": -4.05315,
+          "lon": -4.219816667,
           "info": "",
           "documentUrl": ""
         },
@@ -337,7 +337,7 @@
           "type": "",
           "name": "Voiture",
           "lat": 51.6795,
-          "lon": -0.0552,
+          "lon": -0.5552,
           "info": "",
           "documentUrl": ""
         }
@@ -352,7 +352,7 @@
           "type": "",
           "name": "Visite",
           "lat": 51.6795,
-          "lon": -0.0552,
+          "lon": -0.5552,
           "info": "",
           "documentUrl": ""
         }
@@ -367,7 +367,7 @@
           "type": "",
           "name": "Voiture",
           "lat": 51.6795,
-          "lon": -0.0552,
+          "lon": -0.5552,
           "info": "",
           "documentUrl": ""
         },
